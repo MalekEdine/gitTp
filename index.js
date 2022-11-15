@@ -1,3 +1,3 @@
 console.log('hello');
 
-// function logout = () => ();
+// function logout = (param) => (console.log(parem));
